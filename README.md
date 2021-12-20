@@ -22,9 +22,9 @@
 
 <br/>
 
-<a href="javascript:;">
+
     <img align="left" height="180" width="400" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api?username=Andrea954&show_icons=true" />
     <img align="right" height="180" width="400" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea954&layout=compact" />
-</a>
+
