@@ -22,7 +22,7 @@
 
 <br/>
 
-<a href="http://ioinn.cn/">
+<a href="javascript:;">
     <img align="left" height="180" width="400" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api?username=Andrea954&show_icons=true" />
     <img align="right" height="180" width="400" style="display: inline-block; "
